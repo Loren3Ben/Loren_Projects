@@ -4,3 +4,6 @@
 [submodule "TenniBot/Tennibot_modules"]
 	path = TenniBot/Tennibot_modules
 	url = git@github.com:Loren3Ben/lorenProject_Tennibot-models.git
+[submodule "InfoDoc"]
+	path = InfoDoc
+	url = git@github.com:Loren3Ben/Loren_project_InfoDoc.git
